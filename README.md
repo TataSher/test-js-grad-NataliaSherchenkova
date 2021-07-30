@@ -1,3 +1,13 @@
+# Dev Notes
+
+Thank you for sending over the tech test. Let me know if you need any further explanation for the solutions provided.
+
+## Setup
+
+Clone this repo and run `npm install` 
+
+---------------------------------------
+
 # Graduate JS exercise
 
 Hello hello, thanks for taking your time to complete this exercise.
